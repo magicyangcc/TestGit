@@ -3,3 +3,6 @@
 def index():
     print('hello world')
     print('hello everyone')
+    
+def __init__(self):
+    print('hello init')
